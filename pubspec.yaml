@@ -11,7 +11,7 @@ dependencies:
   archive: ^3.3.7
   quiver: ^3.2.1
   xml: ^6.3.0
-  image: ^3.3.0
+  image: ^4.0.16
   collection: ^1.17.0
 
 dev_dependencies:
